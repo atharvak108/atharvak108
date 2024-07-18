@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atharva Kaushik
-- 🌱 I’m currently pursuing Bachelors of Technology in Data Science, as of now I am in my 6th semester.
+- 🌱 I’m currently pursuing Bachelors of Technology in Data Science, as of now I am in my 7th semester.
 - 💞️ I’m looking to collaborate on projects and research studies involving deep learning in domains of ANOVA/MANOVA, geospatial data, noise and computer vision alongwith LLMs.
 - 📫 email : - atk2841@gmail.com
 - 😄 Pronouns: he/him
